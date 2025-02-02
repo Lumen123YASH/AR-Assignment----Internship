@@ -15,7 +15,8 @@ AR Foundation
 ARCore XR Plugin
 C# Scripting
 
-Project StructureAR-Cube-Placement-App/
+Project Structure
+AR-Cube-Placement-App/
 ├── Assets/
 │   ├── Scripts/
 │   │   └── CubePlacement.cs
